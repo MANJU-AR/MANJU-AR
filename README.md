@@ -25,7 +25,7 @@ I'm a passionate **Data Science & Machine Learning enthusiast** with a drive to 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
 
 ### 📚 Libraries & Frameworks
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
@@ -51,10 +51,10 @@ I'm a passionate **Data Science & Machine Learning enthusiast** with a drive to 
 
 ## 📌 Projects
 
-- 🔗 [House Price Prediction]() – ML model to estimate housing prices  
-- 🔗 [Heart Attack Prediction](#) – Health-based classifier using logistic regression  
-- 🔗 [Customer Purchase Predictor](#) – Decision tree model to predict buying behavior  
-- 🔗 [Student Performance Predictor](#) – Analyze academic outcomes with ML  
+- 🔗 [House Price Prediction](https://github.com/MANJU-AR/House_Price_Prediction) – ML model to estimate housing prices  
+- 🔗 [Heart Attack Prediction](https://github.com/MANJU-AR/Heart_Disease_Prediction) – Health-based classifier using logistic regression  
+- 🔗 [Customer Purchase Predictor](https://github.com/MANJU-AR/Customer-Purchase-Prediction-System) – Decision tree model to predict buying behavior  
+- 🔗 [Student Performance Predictor](https://github.com/MANJU-AR/STUDENT-GRADE-PREDICTION) – Analyze academic outcomes with ML  
 
 ---
 
@@ -74,12 +74,13 @@ I'm a passionate **Data Science & Machine Learning enthusiast** with a drive to 
 Feel free to reach out or follow me!
 
 <p align="left">
+  <a href="mailto:mr.manju.a.r@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/manju-a-r-624466255" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="https://kaggle.com/manjuar" target="blank"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
 <a href="https://leetcode.com/u/manju_a_r/" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
+
 </p>
 
 ---
 
-⭐️ *If you like my work, feel free to follow me or star a project!*
 
