@@ -55,7 +55,7 @@ I'm a passionate **Data Science & Machine Learning enthusiast** with a drive to 
 - 🔗 [Heart Attack Prediction](https://github.com/MANJU-AR/Heart_Disease_Prediction) – Health-based classifier using logistic regression  
 - 🔗 [Customer Purchase Predictor](https://github.com/MANJU-AR/Customer-Purchase-Prediction-System) – Decision tree model to predict buying behavior  
 - 🔗 [Student Performance Predictor](https://github.com/MANJU-AR/STUDENT-GRADE-PREDICTION) – Analyze academic outcomes with ML  
-
+- And many more...
 ---
 
 ## 📈 GitHub Stats
