@@ -13,8 +13,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MANJU-AR&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/MANJU-AR?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/MANJU-AR?label=Stars&style=social" alt="GitHub Stars" />
+ 
 </p>
 
 ---
