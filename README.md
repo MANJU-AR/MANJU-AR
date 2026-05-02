@@ -158,10 +158,7 @@ My work spans impactful domains — from **traffic simulation** using SUMO with 
   <a href="https://github.com/MANJU-AR">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="tel:+918147551708">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://eye-dentify.vercel.app" target="_blank">
+  <a href="https://manju-ar.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-00E0FF?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
 </p>
