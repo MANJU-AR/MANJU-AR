@@ -1,26 +1,34 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=500&color=00F0FF&center=true&vCenter=true&width=700&lines=MANJU+A+R;AI%2FML+Engineer+%7C+Data+Analyst;Building+Intelligent+Systems;Machine+Learning+Enthusiast" alt="Typing Animation" />
-</div>
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=MANJU-AR&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile Views" />
+# MANJU A R
+
+**AI/ML Developer · Data Analyst · Open to Work **
+
+[![Email](https://img.shields.io/badge/mr.manju.a.r@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mr.manju.a.r@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manju-a-r-624466255)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://manju-ar.github.io/portfolio)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MANJU-AR)
+
+📍 Mysuru, Karnataka, India &nbsp;·&nbsp; 🌐 Open to Work
 </div>
 
 ---
 
-## 🧠 About Me
+## Who I am
 
-> *"Computer Science Engineer passionately building intelligent systems that solve real-world problems."*
+I'm a Computer Science student (final year, SDM Institute of Technology) who builds real things with ML — not just notebooks. I've shipped a reinforcement learning traffic controller that reduced vehicle wait times by 12% at an actual company, built a forensic face recognition system using FaceNet + MTCNN, and developed a heart disease risk app that's live in production.
 
-I am a **Computer Science Engineering student** with hands-on experience in **predictive modeling**, **NLP**, **Deep Learning**, and **Data Analytics**. I transform complex data into actionable insights and build scalable AI solutions that drive measurable impact.
+I care about models that solve problems, not models that just score well on benchmarks.
 
-My work spans impactful domains — from **traffic simulation** using SUMO with Q-learning to **healthcare analytics** and **forensic face recognition**. Currently pursuing my B.E in Computer Science at SDM Institute of Technology, I am actively seeking **internship and full-time opportunities** in AI/ML and Data Science.
+**Looking for:** Remote roles or freelance contracts in AI/ML, Data Science, or Data Analytics.
 
-📍 **Based in Mysuru, Karnataka, India**  
-🔗 **Portfolio:** [manju-ar.github.io/portfolio](https://manju-ar.github.io/portfolio)  
-📫 **mr.manju.a.r@gmail.com**
+---
 
-🎯 **Open to Work** — Internships / Full-time Roles in AI/ML, Data Science, Software Development
+## What I'm working on right now
+
+- 🔧 Deepening Python + ML foundations at **QSpiders** (Jan 2026 – present) — Pandas, NumPy, end-to-end ML pipelines
+- 📊 Building a new **end-to-end data project** (details coming soon to this profile)
+- 🧠 Exploring LLM fine-tuning and prompt engineering on personal projects
 
 ---
 
