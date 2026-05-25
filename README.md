@@ -1,40 +1,49 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=500&color=00F0FF&center=true&vCenter=true&width=700&lines=MANJU+A+R;AI%2FML+Engineer+%7C+Data+Analyst;Building+Intelligent+Systems;Machine+Learning+Enthusiast" alt="Typing Animation" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=MANJU+A+R;Machine+Learning+Enthusiast;Data+Science+;AI+Enthusiast" alt="Typing Animation" />
-</p>
-
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" /> Hello, I'm <span style="color:#00E0FF">MANJU A R</span>!
-</h1>
-
-<p align="center">
-  <b>Computer Science Engineer | Machine Learning & Data Science Enthusiast | AI </b>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MANJU-AR&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
- 
-</p>
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=MANJU-AR&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile Views" />
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
 
 > *"Computer Science Engineer passionately building intelligent systems that solve real-world problems."*
 
-I am a **Computer Science Engineer**,**Machine Learning & Data Science Enthusiast** with hands-on experience in **predictive modeling**, **NLP**, **reinforcement learning** using Python. Currently pursuing my B.E in Computer Science at SDM Institute of Technology, I am actively seeking **internship and full-time opportunities** in AI/ML and Data Science.
+I am a **Computer Science Engineering student** with hands-on experience in **predictive modeling**, **NLP**, **Deep Learning**, and **Data Analytics**. I transform complex data into actionable insights and build scalable AI solutions that drive measurable impact.
 
-My work spans impactful domains — from **traffic simulation** using SUMO with Q-learning to **healthcare analytics** and **forensic face recognition**. I transform complex data into actionable insights and build scalable AI solutions that drive measurable impact.
+My work spans impactful domains — from **traffic simulation** using SUMO with Q-learning to **healthcare analytics** and **forensic face recognition**. Currently pursuing my B.E in Computer Science at SDM Institute of Technology, I am actively seeking **internship and full-time opportunities** in AI/ML and Data Science.
 
-📍 Based in Mysuru, Karnataka, India
+📍 **Based in Mysuru, Karnataka, India**  
+🔗 **Portfolio:** [manju-ar.github.io/portfolio](https://manju-ar.github.io/portfolio)  
+📫 **mr.manju.a.r@gmail.com**
 
 🎯 **Open to Work** — Internships / Full-time Roles in AI/ML, Data Science, Software Development
 
 ---
 
-## 🛠️ Skills & Technologies
+## 💼 Professional Experience
 
-<!-- Skills grouped with modern badges -->
+| Role | Organization | Duration | Highlights |
+|------|--------------|----------|------------|
+| **Python & Data Science Intern** | QSpiders, Mysuru | Jan 2026 – Present | Building strong foundation in Python, Pandas, NumPy, and ML projects |
+| **Data Science Intern (Remote)** | Infotact Solutions, Bengaluru | Jul 2025 – Sep 2025 | Developed Q-learning traffic signal controller using SUMO — reduced vehicle wait time by **12%** |
+
+---
+
+## 🏆 Key Achievements
+
+- ✅ **12% reduction** in vehicle wait time — Reinforcement Learning based traffic controller
+- ✅ Built AI-based **forensic face sketch recognition system** using MTCNN & FaceNet
+- ✅ Developed **Heart Disease Prediction Web App** with 85% accuracy (Logistic Regression, Flask)
+- ✅ Organized blood donation drives as **Student Coordinator, Youth Red Cross** — impacted 200+ donors
+- ✅ Recipient of **Rajya Puraskar Award** — Bharat Scouts and Guides (Leadership & Community Service)
+
+---
+
+## ⚙️ Tech Stack
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -45,7 +54,7 @@ My work spans impactful domains — from **traffic simulation** using SUMO with 
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=ai&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge&logo=xgboost&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6B6B?style=for-the-badge&logo=keras&logoColor=white)
 
 ### 📊 Data Science & Analytics
@@ -65,82 +74,65 @@ My work spans impactful domains — from **traffic simulation** using SUMO with 
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 💼 Professional Experience
+## 📌 Featured Projects
 
-| Role | Organization | Duration | Highlights |
-|------|--------------|----------|------------|
-| **Python & Data Science Intern** | QSpiders, Mysuru | Jan 2026 – Present | Building strong foundation in Python, Pandas, NumPy, and ML projects |
-| **Data Science Intern (Remote)** | Infotact Solutions, Bengaluru | Jul 2025 – Sep 2025 | Developed Q-learning traffic signal controller using SUMO — reduced vehicle wait time by **12%** |
-
----
-## 🏆 Key Achievements
-
-- ✅ **12% reduction** in vehicle wait time — Reinforcement Learning based traffic controller
-- ✅ Built AI-based **forensic face sketch recognition system** using MTCNN & FaceNet
-- ✅ Developed **Heart Disease Prediction Web App** with 85% accuracy (Logistic Regression, Flask)
-- ✅ Organized blood donation drives as **Student Coordinator, Youth Red Cross** — impacted 200+ donors
-- ✅ Recipient of **Rajya Puraskar Award** — Bharat Scouts and Guides (Leadership & Community Service)
-
-## 📂 Featured Projects
-
-### 🔍 Forensic Face Sketch Construction & Recognition
-> *AI-powered suspect identification for forensic workflows*
-
-**Tech Stack:** Python, MTCNN, FaceNet, Flask
-
-- Built face embedding-based recognition system with drag-and-drop sketch UI
-- Designed for law enforcement and forensic applications
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00E0FF?style=for-the-badge&logo=vercel&logoColor=black)](https://eye-dentify.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MANJU-AR/forensic-face-sketch)
-
----
-
-### ❤️ Heart Disease Prediction Web App
-> *Real-time cardiovascular risk assessment tool*
-
-**Tech Stack:** Python, Flask, Scikit-Learn, Logistic Regression
-
-- 85% accurate ML model deployed via Flask
-- User-friendly interface for instant health risk prediction
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MANJU-AR/heart-disease-prediction)
-[![View Project](https://img.shields.io/badge/View%20Project-00E0FF?style=for-the-badge&logo=flask&logoColor=black)](https://github.com/MANJU-AR/heart-disease-prediction)
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>📊 Tech Salary Analysis Dashboard</h3>
+        <p>XGBoost regression model · <strong>R² 0.91</strong><br>10K+ records · 30+ interactive visualizations</p>
+        <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/XGBoost-FF6F00?style=flat&logo=xgboost&logoColor=white" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" /></p>
+      </td>
+      <td width="50%">
+        <h3>📈 YouTube Performance Analytics</h3>
+        <p>Random Forest Regressor · <strong>R² 0.71</strong><br>Content strategy insights · Interactive HTML dashboard</p>
+        <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3>👤 Forensic Face Sketch Recognition</h3>
+        <p>FaceNet + MTCNN · Flask web app<br>Facial recognition for suspect identification</p>
+        <p><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" /></p>
+        <a href="https://eye-dentify.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-00E0FF?style=flat&logo=vercel&logoColor=black" /></a>
+        <a href="https://github.com/MANJU-AR/forensic-face-sketch"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+      </td>
+      <td width="50%">
+        <h3>❤️ Heart Disease Prediction Web App</h3>
+        <p>Logistic Regression · <strong>85% accuracy</strong><br>Flask deployment · Real-time risk assessment</p>
+        <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" /></p>
+        <a href="https://github.com/MANJU-AR/heart-disease-prediction"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## 📜 Certifications
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning%20with%20Python-IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/Python%20for%20Data%20Science-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20AI%20Essentials-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Analytics%20Simulation-Forage-00A86B?style=for-the-badge&logo=forage&logoColor=white" />
-</p>
+</div>
 
 ---
 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MANJU-AR&show_icons=true&count_private=true&hide_border=true&title_color=00E0FF&icon_color=00E0FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MANJU-AR&hide_border=true&stroke=00E0FF&ring=00E0FF&fire=00E0FF&currStreakLabel=00E0FF&sideNums=00E0FF&sideLabels=c9d1d9&dates=c9d1d9&background=0d1117" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MANJU-AR&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MANJU-AR&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANJU-AR&layout=compact&hide_border=true&title_color=00E0FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MANJU-AR&theme=algolia&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MANJU-AR&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00E0FF&line=00E0FF&point=FFFFFF" alt="GitHub Activity Graph" width="90%" />
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=MANJU-AR&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
 ---
