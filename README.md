@@ -2,7 +2,7 @@
 
 # MANJU A R
 
-**AI/ML Developer · Data Analyst · Open to Work **
+**AI/ML Developer · Data Analyst · Open to Work**
 
 [![Email](https://img.shields.io/badge/mr.manju.a.r@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mr.manju.a.r@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manju-a-r-624466255)
@@ -16,17 +16,17 @@
 
 ## Who I am
 
-I'm a Computer Science student (final year, SDM Institute of Technology) who builds real things with ML — not just notebooks. I've shipped a reinforcement learning traffic controller that reduced vehicle wait times by 12% at an actual company, built a forensic face recognition system using FaceNet + MTCNN, and developed a heart disease risk app that's live in production.
+I'm a Computer Science student (final year, SDM Institute of Technology) who builds real things with ML - not just notebooks. I've shipped a reinforcement learning traffic controller that reduced vehicle wait times by 12% at an actual company, built a forensic face recognition system using FaceNet + MTCNN, and developed a heart disease risk app that's live in production.
 
 I care about models that solve problems, not models that just score well on benchmarks.
 
-**Looking for:** Remote roles or freelance contracts in AI/ML, Data Science, or Data Analytics.
+**Looking for:** Roles  in AI/ML, Data Science, or Data Analytics.
 
 ---
 
 ## What I'm working on right now
 
-- 🔧 Deepening Python + ML foundations at **QSpiders** (Jan 2026 – present) — Pandas, NumPy, end-to-end ML pipelines
+- 🔧 Deepening Python + ML foundations at **QSpiders** (Jan 2026 - present) - Pandas, NumPy, end-to-end ML pipelines
 - 📊 Building a new **end-to-end data project** (details coming soon to this profile)
 - 🧠 Exploring LLM fine-tuning and prompt engineering on personal projects
 
@@ -43,11 +43,11 @@ I care about models that solve problems, not models that just score well on benc
 
 ## 🏆 Key Achievements
 
-- ✅ **12% reduction** in vehicle wait time — Reinforcement Learning based traffic controller
+- ✅ **12% reduction** in vehicle wait time-Reinforcement Learning based traffic controller
 - ✅ Built AI-based **forensic face sketch recognition system** using MTCNN & FaceNet
 - ✅ Developed **Heart Disease Prediction Web App** with 85% accuracy (Logistic Regression, Flask)
-- ✅ Organized blood donation drives as **Student Coordinator, Youth Red Cross** — impacted 200+ donors
-- ✅ Recipient of **Rajya Puraskar Award** — Bharat Scouts and Guides (Leadership & Community Service)
+- ✅ Organized blood donation drives as **Student Coordinator, Youth Red Cross**-impacted 200+ donors
+- ✅ Recipient of **Rajya Puraskar Award**-Bharat Scouts and Guides (Leadership & Community Service)
 
 ---
 
