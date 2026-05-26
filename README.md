@@ -188,5 +188,5 @@ I care about models that solve problems, not models that just score well on benc
 <div align="center">
   <sub>⭐️ If you like this profile, consider giving a star to my repositories!</sub>
   <br />
-  <sub>💡 <b>PRO TIP:</b> Replace the example project GitHub links with your actual repository URLs for production use.</sub>
+  
 </div>
