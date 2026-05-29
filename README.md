@@ -16,7 +16,7 @@
 
 ## Who I am
 
-I'm a Computer Science student (final year, SDM Institute of Technology) who builds real things with ML - not just notebooks. I've shipped a reinforcement learning traffic controller that reduced vehicle wait times by 12% at an actual company, built a forensic face recognition system using FaceNet + MTCNN, and developed a heart disease risk app that's live in production.
+I'm a Computer Science student (CGPA:8.65, SDM Institute of Technology) who builds real things with ML - not just notebooks. I've shipped a reinforcement learning traffic controller that reduced vehicle wait times by 12% at an actual company, built a forensic face recognition system using FaceNet + MTCNN, and developed a heart disease risk app that's live in production.
 
 I care about models that solve problems, not models that just score well on benchmarks.
 
