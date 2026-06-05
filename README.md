@@ -37,7 +37,7 @@ I care about models that solve problems, not models that just score well on benc
 | Role | Organization | Duration | Highlights |
 |------|--------------|----------|------------|
 | **Python & Data Science Intern** | QSpiders, Mysuru | Jan 2026 – Present | Building strong foundation in Python, Pandas, NumPy, and ML projects |
-| **Data Science Intern (Remote)** | Infotact Solutions, Bengaluru | Jul 2025 – Sep 2025 | Developed Q-learning traffic signal controller using SUMO — reduced vehicle wait time by **12%** |
+| **Data Science Intern (Remote)** | Infotact Solutions, Bengaluru | Jul 2025-Sep 2025 | Developed Q-learning traffic signal controller using SUM-reduced vehicle wait time by **12%** |
 
 ---
  
