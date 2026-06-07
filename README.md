@@ -176,7 +176,7 @@ I care about models that solve problems, not models that just score well on benc
 </p>
 
 <p align="center">
-  <i>“Building intelligent systems that matter — one model at a time.”</i>
+  <i>“Building intelligent systems that matter - one model at a time.”</i>
 </p>
 
 <p align="center">
