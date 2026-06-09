@@ -1,7 +1,7 @@
 <div align="center">
 
 # MANJU A R
-
+ 
 **AI/ML Developer · Data Analyst · Open to Work**
 
 [![Email](https://img.shields.io/badge/mr.manju.a.r@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mr.manju.a.r@gmail.com)
