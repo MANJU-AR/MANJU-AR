@@ -2,14 +2,14 @@
 
 # MANJU A R
  
-**AI/ML Developer · Data Analyst · Open to Work**
+**AI/ML Developer · Data Analyst · Open to Work** 
 
 [![Email](https://img.shields.io/badge/mr.manju.a.r@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mr.manju.a.r@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manju-a-r-624466255)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://manju-ar.github.io/portfolio)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MANJU-AR)
 
-📍 Mysuru, Karnataka, India &nbsp;·&nbsp; 🌐 Open to Work
+📍 Mysuru, Karnataka, India &nbsp;·&nbsp; 🌐 Open to Work 
 </div>
 
 ---
@@ -22,7 +22,7 @@ I care about models that solve problems, not models that just score well on benc
 
 **Looking for:** Roles  in AI/ML, Data Science, or Data Analytics.
 
----
+--- 
 
 ## What I'm working on right now
 
