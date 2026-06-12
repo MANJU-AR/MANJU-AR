@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Mysuru%2C%20India-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white" />
-   <a href="https://manju-ar.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=flat-square&logo=github&logoColor=white" />
+   <a href="https://manju-ar.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=flat-square&logo=vercel&logoColor=white" />
   <a href="mailto:mr.manju.a.r@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/manju-a-r-624466255"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/MANJU-AR"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=flat-square&logo=github&logoColor=white" /></a>
