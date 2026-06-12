@@ -1,6 +1,6 @@
 <!-- HEADER SECTION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=MANJU%20A%20R&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Data%20Science%20%7C%20Computer%20Science%20Engineering&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=MANJU%20A%20R&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Data%20Science%20%7C%20Data%20Analytics%20%7C%20Computer%20Science%20Engineering&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
