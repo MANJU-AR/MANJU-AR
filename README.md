@@ -110,7 +110,7 @@
 <!-- EXPERIENCE SECTION -->
 ## 💼 Industry Experience
 
-### **Python & Data Science Intern** — *QSpiders, Mysuru*
+### **Python & Data Science Intern** - *QSpiders, Mysuru*
 *May 2024 – Present*
 
 - Developed production-grade data pipelines for YouTube analytics, processing 50K+ records using Pandas/NumPy
@@ -118,7 +118,7 @@
 - Collaborated in Agile sprints, delivering 3+ ML models with Scikit-Learn
 - **Skills:** `Python` `SQL` `Power BI` `Pandas` `Scikit-Learn`
 
-### **Data Science Intern (Remote)** — *Infotact Solutions, Bengaluru*
+### **Data Science Intern (Remote)** - *Infotact Solutions, Bengaluru*
 *Jan 2024 – Apr 2024*
 
 - Engineered Q-Learning agent for adaptive traffic signals, reducing average wait time by 12% in SUMO simulations
@@ -135,9 +135,9 @@
 
 | Recognition | Details |
 | :--- | :--- |
-| **Research Publication** | FaceNet-Driven Forensic Face Sketch Recognition — IJRcST (DOI Indexed) |
-| **Academic Excellence** | 8.65 CGPA (Top 5% of batch) — SDM Institute of Technology |
-| **Rajya Puraskar Award** | Bharat Scouts & Guides — Community Service Leadership |
+| **Research Publication** | FaceNet-Driven Forensic Face Sketch Recognition - IJRcST (DOI Indexed) |
+| **Academic Excellence** | 8.65 CGPA - SDM Institute of Technology |
+| **Rajya Puraskar Award** | Bharat Scouts & Guides - Community Service Leadership |
 | **Youth Red Cross** | Organized blood donation drives (200+ donors) & first aid training |
 
 </p>
@@ -224,7 +224,7 @@
 
 <p align="center">
   I'm actively looking for <b>internship/full-time opportunities</b> in <b>AI/ML, Data Science, and Software Engineering</b>. 
-  If you have an exciting project, research collaboration, or a role that aligns with my skills — let's connect!
+  If you have an exciting project, research collaboration, or a role that aligns with my skills - let's connect!
 </p>
 
 <p align="center">
