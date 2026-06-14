@@ -60,10 +60,10 @@
 | Domain | Proficiency | Key Capabilities |
 | :--- | :---: | :--- |
 | **Supervised Learning** | ⭐⭐⭐⭐⭐ | Regression, Classification, Ensemble Methods (Random Forest, XGBoost) |
-| **Unsupervised Learning** | ⭐⭐⭐⭐ | Clustering (K-Means, DBSCAN), PCA, t-SNE |
-| **Deep Learning** | ⭐⭐⭐⭐ | CNNs (FaceNet/MTCNN), RNNs/LSTMs, Transfer Learning |
-| **NLP** | ⭐⭐⭐⭐ | Text Preprocessing, Sentiment Analysis, Transformers (BERT basics) |
-| **Reinforcement Learning** | ⭐⭐⭐⭐ | Q-Learning, Deep Q-Networks, SUMO Traffic Simulation |
+| **Unsupervised Learning** | ⭐⭐⭐ | Clustering (K-Means, DBSCAN), PCA, t-SNE |
+| **Deep Learning** | ⭐⭐⭐ | CNNs (FaceNet/MTCNN), RNNs/LSTMs, Transfer Learning |
+| **NLP** | ⭐⭐⭐ | Text Preprocessing, Sentiment Analysis, Transformers (BERT basics) |
+| **Reinforcement Learning** | ⭐⭐⭐ | Q-Learning, Deep Q-Networks, SUMO Traffic Simulation |
 | **MLOps & Deployment** | ⭐⭐⭐⭐ | Flask APIs, Streamlit, GCP, Vercel, Docker (basic) |
 | **Data Engineering** | ⭐⭐⭐⭐⭐ | ETL Pipelines, Data Wrangling, Feature Engineering, EDA |
 
