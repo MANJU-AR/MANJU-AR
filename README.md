@@ -59,7 +59,7 @@
 
 | Domain | Proficiency | Key Capabilities |
 | :--- | :---: | :--- |
-| **Supervised Learning** | ⭐⭐⭐⭐⭐ | Regression, Classification, Ensemble Methods (Random Forest, XGBoost) |
+| **Supervised Learning** | ⭐⭐⭐⭐ | Regression, Classification, Ensemble Methods (Random Forest, XGBoost) |
 | **Unsupervised Learning** | ⭐⭐⭐ | Clustering (K-Means, DBSCAN), PCA, t-SNE |
 | **Deep Learning** | ⭐⭐⭐ | CNNs (FaceNet/MTCNN), RNNs/LSTMs, Transfer Learning |
 | **NLP** | ⭐⭐⭐ | Text Preprocessing, Sentiment Analysis, Transformers (BERT basics) |
