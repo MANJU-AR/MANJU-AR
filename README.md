@@ -223,7 +223,7 @@
 ## 🤝 Let's Collaborate!
 
 <p align="center">
-  I'm actively looking for <b>internship/full-time opportunities</b> in <b>AI/ML, Data Science, and Software Engineering</b>. 
+  I'm actively looking for <b>internship/full-time opportunities</b> in <b>AI/ML, Data Science, and Software Engineering</b>.  
   If you have an exciting project, research collaboration, or a role that aligns with my skills - let's connect!
 </p>
 
